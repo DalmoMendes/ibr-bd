@@ -32,7 +32,7 @@ de uma ou mais organizações[..] <br>
 # Conteúdos:
 • Conceitos de Banco de Dados<br>
 • SGBD<br>
-• Tipos de SGBD Relacionais<br>
+• Tipos de SGBDs Relacionais<br>
 • SQL<br>
 • Relacionamentos<br>
 • Cardinalidades<br>
